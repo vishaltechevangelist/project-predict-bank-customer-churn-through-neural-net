@@ -44,10 +44,6 @@ Key features include:
    - Generate predictions for customer churn probability  
    - Classify customers as “Churn” or “Retained”  
 
-5. **Visualization & Insights**  
-   - Plot training/validation accuracy and loss curves  
-   - Summarize insights on key customer factors affecting churn  
-
 ---
 
 ✅ This project highlights the use of **deep learning on structured banking data** for customer retention strategies.  
